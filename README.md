@@ -8,5 +8,6 @@ BackEnd - C#
 To connect the FrontEnd part, you need to write something in your index.js
 
 I would be grateful for a star on the repository
+
 Business partnership:
 Telegram/Discord - @devsponsor
